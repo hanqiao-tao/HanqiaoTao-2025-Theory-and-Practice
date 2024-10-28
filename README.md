@@ -16,4 +16,5 @@ We also provide codes that use the CPLEX 20.10 to directly solve the problem.
 If you discover any bugs in the code, please feel free to contact taohanqiao19@nudt.edu.cn.
 
 References
+
 Otto, A., Otto, C., & Scholl, A. (2013). Systematic data generation and test design for solution on the example of SALBPGen for assembly line balancing. European Journal of Operation Research, 240, 32-42.
