@@ -13,7 +13,7 @@ The code automatically generates test instances based on instances proposed by O
 Other parameters controlling the algorithm can be found in the header file "FTSP-P.h".
 We also provide codes that use the CPLEX 20.10 to directly solve the problem.
 
-If you discover any bugs in the code, please feel free to contact taohanqiao19@nudt.edu.cn.
+If you find any problem or bug in the code, please feel free to contact taohanqiao19@nudt.edu.cn.
 
 **References**
 
