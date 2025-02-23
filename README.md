@@ -1,4 +1,4 @@
-An executable file and source code are provided here for the article: Tao H Q, Song G P, Jiang J, et al. Research on flight test scheduling under complex constraints[J]. Systems Engineering — Theory & Practice (under review).
+An executable file and source code are provided here for the article: Tao H Q, Song G P, Jiang J, et al. Research on flight test scheduling under complex constraints[J]. Systems Engineering — Theory & Practice (to appear).
 
 These materials are intended solely for academic purposes. Any unauthorized use for commercial or other non-academic purposes is strictly prohibited！
 
